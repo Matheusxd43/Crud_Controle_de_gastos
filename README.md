@@ -49,8 +49,7 @@ Garanta que você tenha o **Java (JDK) 17+** e o **Maven** instalados e configur
 
 **Passo 2: Clonagem do Repositório**
 ```bash
-git clone https://github.com/ZagoGiovanni/Controle-de-Gastos-SpringBoot-HTMX.git
-cd seu-repositorio
+https://github.com/Matheusxd43/Crud_Controle_de_gastos.git
 ```
 
 **Passo 3: Configuração da Conexão com o Banco**
